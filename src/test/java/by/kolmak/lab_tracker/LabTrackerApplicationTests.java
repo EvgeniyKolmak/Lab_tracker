@@ -1,0 +1,13 @@
+package by.kolmak.lab_tracker;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LabTrackerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
